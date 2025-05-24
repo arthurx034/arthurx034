@@ -36,5 +36,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Arthur_Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-ribeiro-rodrigues/)](https://www.linkedin.com/in/arthur-ribeiro-rodrigues/)
-[![Gmail Badge](https://img.shields.io/badge/-arthuribeirorodrigues@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/2/#inbox?compose=KnqNxqWXpClltzDBCsHnhDDlpkLnkTVttvjlzfPBqxPFwTvrLPtRXfmFnCZlSmPCMkTQrFkNTgVDDmjDkFGQhBgxHQLQgMDsVkJVLKwdPJHTFmCTJtHwcjvvzmxhblcWRLWNwpfxRRhsJDcCxdsnF)](https://mail.google.com/mail/u/2/#inbox?compose=KnqNxqWXpClltzDBCsHnhDDlpkLnkTVttvjlzfPBqxPFwTvrLPtRXfmFnCZlSmPCMkTQrFkNTgVDDmjDkFGQhBgxHQLQgMDsVkJVLKwdPJHTFmCTJtHwcjvvzmxhblcWRLWNwpfxRRhsJDcCxdsnF)
+[![Gmail Badge](https://img.shields.io/badge/-arthuribeirorodrigues@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/2/#inbox?compose=KnqNxqWXpClltzDBCsHnhDDlpkLnkTVttvjlzfPBqxPFwTvrLPtRXfmFnCZlSmPCMkTQrFkNTgVDDmjDkFGQhBgxHQLQgMDsVkJVLKwdPJHTFmCTJtHwcjvvzmxhblcWRLWNwpfxRRhsJDcCxdsnF)]
 [![GitHub](https://img.shields.io/github/followers/arthurx034?label=follow&style=social)](https://github.com/arthurx034)
